@@ -97,8 +97,3 @@ All scripts will automatically load the corresponding dataset from `dataset/` an
 Our experimental results demonstrate that **TriTrackNet** consistently outperforms baseline models such as Informer, Autoformer, iTransformer, PatchTST, and DLinear, especially on high-dimensional datasets (Traffic, Electricity).  
 See the paper for full benchmark results.  
 
-
----
-
-## 📬 Contact
-For questions, please contact: **[your email or GitHub issues]**
